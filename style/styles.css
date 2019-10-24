@@ -88,6 +88,10 @@ a:hover{
   position: relative;
   width: 25%;
 }
+.globe{
+  position: relative;
+  width: 20%;
+}
 .middle-container{
   background-color: white;
   position: relative;
@@ -126,6 +130,21 @@ a:hover{
   float: right;
   margin-left: 25px;
 }
+.Yamahapic{
+    position: relative;
+    width: 30%;
+}
+.micropic{
+  width: 20%;
+  border-radius: 50%;
+}
+
+
+.guitar{
+    position: relative;
+    width: 20%;
+}
+
 .strategy{
   width: 15%;
   border-radius: 50%;
@@ -148,7 +167,11 @@ a:hover{
   padding-top: 50px;
   margin-left: 340px;
 }
-
+.topcloud2{
+  position: relative;
+  padding-top: 100px;
+  margin-left: 20px;
+}
 
 
 .butn {
