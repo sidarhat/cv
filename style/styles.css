@@ -62,9 +62,10 @@ hr{
 }
 
 a{
-  color: #11999E;
+  color: #0c093c;
   font-family: 'Montserrat', sans-serif;
   margin: 20px 20px;
+  font-size: 1.7rem;
   text-decoration: none;
 }
 
